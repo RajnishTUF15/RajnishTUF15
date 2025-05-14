@@ -1,7 +1,10 @@
 # 🙋🏻‍♂️ Introducing Myself  
-
-**Hello, I'm Rajnish Ravi**  
-*Data Scientist with experience in data analysis, machine learning, and data visualization. I love turning data into insights and building models that solve real-world problems.*
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/RajnishTUF15/RajnishTUF15/blob/main/Black Elegant Modern Personal LinkedIn Banner.png" alt="Banner" />
+</p>
+Hello, I'm Rajnish Ravi.  
+Data Scientist with experience in data analysis, machine learning, and data visualization. I love turning data into insights and building models that solve real-world problems.
 
 
 ### 📊 What I Do
